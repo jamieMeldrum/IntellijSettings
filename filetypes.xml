@@ -2,7 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="less" type="CSS" />
-      <mapping ext="ftl" type="HTML" />
+      <mapping pattern="*.json.ftl" type="JSON" />
     </extensionMap>
   </component>
 </application>
