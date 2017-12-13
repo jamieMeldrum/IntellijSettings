@@ -40,8 +40,10 @@
   <action id="ExternalSystem.CollapseAll">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
   <action id="FindUsages">
-    <keyboard-shortcut first-keystroke="ctrl g" />
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
   </action>
   <action id="Forward">
@@ -73,6 +75,10 @@
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift ctrl f6" />
     <keyboard-shortcut first-keystroke="ctrl page_up" />
+  </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+    <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f9" />
