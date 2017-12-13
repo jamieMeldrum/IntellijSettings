@@ -64,6 +64,7 @@
   <action id="Images.Editor.ZoomOut">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
+  <action id="IncrementalSearch" />
   <action id="KotlinShellExecute" />
   <action id="Maven.CollapseAll">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
@@ -77,8 +78,10 @@
     <keyboard-shortcut first-keystroke="ctrl page_up" />
   </action>
   <action id="Replace">
-    <keyboard-shortcut first-keystroke="ctrl f" />
     <keyboard-shortcut first-keystroke="ctrl g" />
+  </action>
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f9" />
