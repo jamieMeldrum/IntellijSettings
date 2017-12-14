@@ -1,12 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.hprof;*.json.ftl;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping ext="less" type="CSS" />
       <mapping ext="ftl" type="HTML" />
       <mapping pattern="*.json.ftl" type="JSON" />
       <mapping pattern="attachments-v3-test.yaml" type="PLAIN_TEXT" />
-      <removed_mapping ext="yml" type="YAML" />
     </extensionMap>
   </component>
 </application>
