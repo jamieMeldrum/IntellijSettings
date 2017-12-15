@@ -4,6 +4,7 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
+  <action id="ChangeSignature" />
   <action id="CollapseAll">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
@@ -65,6 +66,10 @@
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
   <action id="IncrementalSearch" />
+  <action id="IntroduceConstant">
+    <keyboard-shortcut first-keystroke="ctrl alt c" />
+    <keyboard-shortcut first-keystroke="shift alt c" />
+  </action>
   <action id="KotlinShellExecute" />
   <action id="Maven.CollapseAll">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
