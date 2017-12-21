@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="less" type="CSS" />
+      <mapping ext="ftlh" type="HTML" />
       <mapping ext="ftl" type="HTML" />
       <mapping pattern="*.json.ftl" type="JSON" />
       <mapping pattern="attachments-v3-test.yaml" type="PLAIN_TEXT" />
