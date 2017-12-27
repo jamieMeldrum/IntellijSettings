@@ -21,6 +21,7 @@
       <mask>*.f</mask>
       <mask>*.ft</mask>
       <mask>*.ftl</mask>
+      <mask>*.ftl*</mask>
     </recentFileMasks>
   </component>
 </application>
