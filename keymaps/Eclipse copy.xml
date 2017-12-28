@@ -12,6 +12,10 @@
   <action id="CollapseRegion">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
+  <action id="Compare.SameVersion">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="CompareTwoFiles" />
   <action id="Console.Execute.Multiline" />
   <action id="Debugger.PopFrame">
     <keyboard-shortcut first-keystroke="f6" />
@@ -38,10 +42,15 @@
     <keyboard-shortcut first-keystroke="enter" />
   </action>
   <action id="EditorCompleteStatement" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl delete" />
+  </action>
+  <action id="EditorDeleteToWordEnd" />
   <action id="EditorSplitLine" />
   <action id="ExternalSystem.CollapseAll">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
+  <action id="FileChooser.GotoDesktop" />
   <action id="Find">
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
@@ -111,6 +120,7 @@
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="ctrl minus" />
   </action>
+  <action id="SendEOF" />
   <action id="ShowPopupMenu">
     <keyboard-shortcut first-keystroke="ctrl n" />
     <keyboard-shortcut first-keystroke="shift alt s" />
