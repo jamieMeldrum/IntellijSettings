@@ -1,4 +1,5 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="AddToFavoritesPopup" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="alt left" />
     <mouse-shortcut keystroke="button4" />
@@ -65,10 +66,22 @@
   <action id="Images.Editor.ZoomOut">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
+  <action id="ImplementMethods" />
   <action id="IncrementalSearch" />
+  <action id="IntroduceActionsGroup">
+    <keyboard-shortcut first-keystroke="shift alt t" />
+  </action>
   <action id="IntroduceConstant">
     <keyboard-shortcut first-keystroke="ctrl alt c" />
     <keyboard-shortcut first-keystroke="shift alt c" />
+  </action>
+  <action id="IntroduceField">
+    <keyboard-shortcut first-keystroke="ctrl alt f" />
+    <keyboard-shortcut first-keystroke="shift alt f" />
+  </action>
+  <action id="IntroduceParameter">
+    <keyboard-shortcut first-keystroke="ctrl alt p" />
+    <keyboard-shortcut first-keystroke="shift alt p" />
   </action>
   <action id="KotlinShellExecute" />
   <action id="Maven.CollapseAll">
@@ -98,6 +111,11 @@
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="ctrl minus" />
   </action>
+  <action id="ShowPopupMenu">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+    <keyboard-shortcut first-keystroke="shift alt s" />
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
   <action id="StepInto">
     <keyboard-shortcut first-keystroke="f5" />
     <keyboard-shortcut first-keystroke="f7" />
@@ -112,4 +130,6 @@
   <action id="TypeHierarchy.BaseOnThisType" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="ViewSource" />
+  <action id="hg4idea.QPushAction" />
+  <action id="tasks.switch" />
 </keymap>
