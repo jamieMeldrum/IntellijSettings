@@ -113,6 +113,9 @@
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f9" />
   </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
   <action id="RunToCursor">
     <keyboard-shortcut first-keystroke="ctrl r" />
     <keyboard-shortcut first-keystroke="f4" />
