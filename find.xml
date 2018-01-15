@@ -24,6 +24,14 @@
       <mask>*.ft</mask>
       <mask>*.ftl*</mask>
       <mask>*.ftl</mask>
+      <mask>s</mask>
+      <mask>si</mask>
+      <mask>sit</mask>
+      <mask>site</mask>
+      <mask>sitem</mask>
+      <mask>sitema</mask>
+      <mask>sitemap</mask>
+      <mask>sitemap*</mask>
     </recentFileMasks>
   </component>
 </application>
