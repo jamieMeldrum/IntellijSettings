@@ -1,18 +1,14 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="showResultsInSeparateView" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.feature" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
       <mask>*.js</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
@@ -20,7 +16,6 @@
       <mask>*.fltt</mask>
       <mask>*.flt</mask>
       <mask>*.fl</mask>
-      <mask>*.f</mask>
       <mask>*.ft</mask>
       <mask>*.ftl*</mask>
       <mask>*.ftl</mask>
@@ -32,6 +27,18 @@
       <mask>sitema</mask>
       <mask>sitemap</mask>
       <mask>sitemap*</mask>
+      <mask>*ftl</mask>
+      <mask>*ft</mask>
+      <mask>*f</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.f</mask>
+      <mask>*.fe</mask>
+      <mask>*.fea</mask>
+      <mask>*.feat</mask>
+      <mask>*.featu</mask>
+      <mask>*.featur</mask>
+      <mask>*.feature</mask>
     </recentFileMasks>
   </component>
 </application>
