@@ -31,7 +31,6 @@
   <action id="Diff.SelectedChange" />
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f12" />
-    <keyboard-shortcut first-keystroke="shift ctrl e" />
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="EditorChooseLookupItem">
@@ -47,6 +46,9 @@
   </action>
   <action id="EditorDeleteToWordEnd" />
   <action id="EditorSplitLine" />
+  <action id="EvaluateExpression">
+    <keyboard-shortcut first-keystroke="shift ctrl e" />
+  </action>
   <action id="ExternalSystem.CollapseAll">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
@@ -108,6 +110,11 @@
     <keyboard-shortcut first-keystroke="shift ctrl f6" />
     <keyboard-shortcut first-keystroke="ctrl page_up" />
   </action>
+  <action id="QuickEvaluateExpression">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="RecentChangedFiles" />
+  <action id="RecentFiles" />
   <action id="Replace">
     <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
@@ -146,7 +153,18 @@
   <action id="TypeHierarchy" />
   <action id="TypeHierarchy.BaseOnThisType" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
+  <action id="Vcs.EditSource">
+    <keyboard-shortcut first-keystroke="f12" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
   <action id="ViewSource" />
+  <action id="XDebugger.JumpToSource">
+    <keyboard-shortcut first-keystroke="f12" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
   <action id="hg4idea.QPushAction" />
   <action id="tasks.switch" />
 </keymap>
