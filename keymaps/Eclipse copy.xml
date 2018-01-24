@@ -64,6 +64,9 @@
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
+  <action id="Git.ResolveConflicts">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
   <action id="GotoDeclaration">
@@ -128,7 +131,6 @@
     <keyboard-shortcut first-keystroke="f10" />
   </action>
   <action id="RunToCursor">
-    <keyboard-shortcut first-keystroke="ctrl r" />
     <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="SearchEverywhere">
