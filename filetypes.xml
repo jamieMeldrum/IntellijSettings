@@ -2,10 +2,12 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="less" type="CSS" />
+      <mapping ext="feature" type="Cucumber" />
       <mapping ext="ftlh" type="HTML" />
       <mapping ext="ftl" type="HTML" />
       <mapping pattern="*.json.ftl" type="JSON" />
       <mapping pattern="attachments-v3-test.yaml" type="PLAIN_TEXT" />
+      <removed_mapping ext="feature" approved="true" type="Substeps" />
     </extensionMap>
   </component>
 </application>
