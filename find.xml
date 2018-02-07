@@ -6,7 +6,6 @@
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.fltt</mask>
@@ -36,6 +35,7 @@
       <mask>pom*</mask>
       <mask>*.feature</mask>
       <mask>*.ftl</mask>
+      <mask>*.[^(bin)]*</mask>
     </recentFileMasks>
   </component>
 </application>
