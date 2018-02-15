@@ -82,9 +82,6 @@
   </action>
   <action id="ImplementMethods" />
   <action id="IncrementalSearch" />
-  <action id="IntroduceActionsGroup">
-    <keyboard-shortcut first-keystroke="shift alt t" />
-  </action>
   <action id="IntroduceConstant">
     <keyboard-shortcut first-keystroke="ctrl alt c" />
     <keyboard-shortcut first-keystroke="shift alt c" />
@@ -118,6 +115,13 @@
   </action>
   <action id="RecentChangedFiles" />
   <action id="RecentFiles" />
+  <action id="RefactoringMenuRenameFile">
+    <keyboard-shortcut first-keystroke="shift ctrl alt r" />
+  </action>
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt t" />
+    <keyboard-shortcut first-keystroke="shift alt t" />
+  </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
