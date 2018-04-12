@@ -3,19 +3,19 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1523520312827">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1523524157725">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
       </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text>git@github.com:NHS-digital-website/ps-hippo.gi</text>
+        <text>:NHS-digital-website/ps-hippo.git</text>
       </register>
       <register name="-" type="4">
-        <text>git@github.com:NHS-digital-website/ps-hippo.gi</text>
+        <text>:NHS-digital-website/ps-hippo.git</text>
       </register>
     </registers>
     <search>
