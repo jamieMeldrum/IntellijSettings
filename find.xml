@@ -2,40 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localRegularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.flt</mask>
-      <mask>*.fl</mask>
-      <mask>*.ft</mask>
-      <mask>*.ftl*</mask>
-      <mask>s</mask>
-      <mask>si</mask>
-      <mask>sit</mask>
-      <mask>site</mask>
-      <mask>sitem</mask>
-      <mask>sitema</mask>
-      <mask>sitemap</mask>
-      <mask>sitemap*</mask>
-      <mask>*ftl</mask>
-      <mask>*ft</mask>
-      <mask>*f</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.f</mask>
-      <mask>*.fe</mask>
-      <mask>*.fea</mask>
-      <mask>*.feat</mask>
-      <mask>*.featu</mask>
-      <mask>*.featur</mask>
-      <mask>pom*</mask>
-      <mask>*.feature</mask>
-      <mask>*.[^(bin)]*</mask>
-      <mask>*.yaml</mask>
-      <mask>*.ftl</mask>
-      <mask>*.less</mask>
-      <mask>*steps.java</mask>
-    </recentFileMasks>
   </component>
 </application>
