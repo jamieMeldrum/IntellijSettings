@@ -74,6 +74,10 @@
           <option name="url" value="https://github.com/jamieMeldrum/Answer-King.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.hermescloud.co.uk:workforce-portal/collection-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/hermes/repos" />
