@@ -110,8 +110,12 @@
           <option name="url" value="git@git.hermescloud.co.uk:workforce-portal/cloudformation.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.hermescloud.co.uk:courier-marketplace/rounds-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/personal" />
+    <option name="cloneParentDir" value="$USER_HOME$/hermes/repos" />
   </component>
 </application>
