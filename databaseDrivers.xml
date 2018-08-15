@@ -60,8 +60,11 @@
       <option name="schema-control" value="MANUAL" />
     </driver>
     <driver id="db2">
-      <artifact name="DB2" use="true" />
+      <artifact name="DB2" use="true" version="4.23.42" />
       <option name="auto-sync" value="false" />
+      <option name="auto-commit" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="schema-control" value="AUTOMATIC" />
     </driver>
     <driver id="sqlserver.ms">
       <artifact name="SQL Server" use="true" />
