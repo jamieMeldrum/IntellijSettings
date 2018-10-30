@@ -130,8 +130,12 @@
           <option name="url" value="https://github.com/jamieMeldrum/Sandbox-Scala.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.hermescloud.co.uk:workforce-portal/df-auth-mock-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/personal/scala" />
+    <option name="cloneParentDir" value="$USER_HOME$/hermes/repos" />
   </component>
 </application>
