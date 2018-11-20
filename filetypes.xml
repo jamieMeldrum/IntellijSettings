@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="updateParcelDeliveryDetailsPreadvice_ChangeSpecialInstructionsOnly" type="JSON" />
       <mapping pattern="AmendCollection_PreadviceExpected.json" type="PLAIN_TEXT" />
+      <mapping pattern="e4fd93d065b8" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
